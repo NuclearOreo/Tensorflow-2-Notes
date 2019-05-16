@@ -10,6 +10,7 @@ and harder problems
 ```
 python 3.7.2
 tensorflow 2.0.0-alpha0 
+jupyter
 matplotlib
 numpy
 pandas
