@@ -3,7 +3,7 @@
 Getting familiar with Tensorflow 2 by in trying to create 
 bunch of neural networks for classic problems. Bacis regression, classification
 convolutional and recurrent network. Then hopefully move on to GANs, autoencoder
-and harder problems
+and harder problems.
 
 ## Python environment and packages  I'm using
 
