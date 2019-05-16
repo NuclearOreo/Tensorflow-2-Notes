@@ -8,7 +8,7 @@ and harder problems.
 ## Python environment and packages  I'm using
 
 ```
-python 3.7.2
+python 3.7
 tensorflow 2.0.0-alpha0 
 jupyter
 matplotlib
